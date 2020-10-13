@@ -12,7 +12,7 @@ while True:
   #set headers and API key
   headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': '5ba046a8-ce16-4013-8b5c-7370e96a4e1a',
+    'X-CMC_PRO_API_KEY': 'YOUR_API_KEY',
   }
 
   session = Session()
